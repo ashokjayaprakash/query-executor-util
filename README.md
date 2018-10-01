@@ -1,4 +1,4 @@
-# SQUEL Query Executor
+# SQUEL-Query-Executor
 
 Utility function to execute all squel query functions in project db model files
 
